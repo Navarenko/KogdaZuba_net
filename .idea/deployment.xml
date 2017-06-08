@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="KogdaZuba.Net" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="KogdaZuba.Net">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/wp-includes" />
+            <excludedPath path="/demo" />
+            <excludedPath path="/wp-content/cache" />
+            <excludedPath path="/wp-content/languages" />
+            <excludedPath path="/wp-content/ewww" />
+            <excludedPath path="/wp-content/themes/directory" />
+            <excludedPath path="/wp-content/themes/twentythirteen" />
+            <excludedPath path="/wp-content/themes/swiftbiz-lite" />
+            <excludedPath path="/wp-content/themes/index.php" />
+            <excludedPath path="/wp-content/themes/onepage" />
+            <excludedPath path="/wp-content/themes/customizr" />
+            <excludedPath path="/wp-content/themes/twentyfourteen" />
+            <excludedPath path="/wp-content/themes/twentytwelve" />
+            <excludedPath path="/wp-content/upgrade" />
+            <excludedPath path="/wp-content/uploads" />
+            <excludedPath path="/wp-content/advanced-cache.php" />
+            <excludedPath path="/wp-content/index.php" />
+            <excludedPath path="/wp-content/wp-cache-config.php" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="MedTorg21">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="http://stopzombie.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

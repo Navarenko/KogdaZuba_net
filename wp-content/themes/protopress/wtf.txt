@@ -1,0 +1,29 @@
+404 -                 страница не найдена
+ac-container -
+archive -             страница Рубрики
+comments -
+content -
+content-none -
+content-page -        статичная страница
+content-search -
+content-single -
+featured-content1 -
+featured-content2 -
+footer -               "подвал" страницы
+functions -            используемые функции
+header -               шапка страницы
+index -
+page -
+page-full_width -
+search -               результаты поиска
+sidebar -              правая колонка
+sidebar-footer -
+single -               страница Записи
+slider-nivo -
+social-fa -
+specialistsCard -      страница специалистов (возможно тестовая)
+
+wp-content\themes\protopress\framework\layouts\content-grid.php - лента статей (для карты клиник)
+wp-content\plugins\stellar-places\includes\templates\single.php - карта на странице конкретного Place
+wp-content\plugins\stellar-places\includes\classes\content-prepender.php - контролируется вставка карты перед контентом на странице конкретного Place
+
